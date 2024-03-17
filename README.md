@@ -3,6 +3,12 @@
 this script parses [magic eden](https://magiceden.io/) and finds you [runestones](https://magiceden.io/ordinals/marketplace/runestone).<br>
 [donations are welcome](https://cyberomanov.tech/WTF_donate), if you find this tool helpful.
 
+## Screenshots
+<p align="center">Log example:</p>
+<p align="center">
+<img width="800" alt="image" src="./assets/log.png">
+</p>
+
 ## Installation
 1. make sure you have installed `python3.10` or newer;
 2. setup your `config.py` and `data/btc.txt`;
